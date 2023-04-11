@@ -1,6 +1,6 @@
 {
   "name": "circular-buffer-ts",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Circular buffer implements by Typescript, and used for read and write binary data.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
